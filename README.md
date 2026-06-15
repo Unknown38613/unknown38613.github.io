@@ -1,3 +1,67 @@
+# Tongue Twisters
+
+## English Tongue Twisters
+
+### Beginner Level
+
+- She sells seashells by the seashore.
+- Red lorry, yellow lorry.
+- Toy boat, toy boat, toy boat.
+- Unique New York, unique New York.
+- Black bug bit a big black bear.
+- Four fine fresh fish for you.
+- A proper copper coffee pot.
+- Six slippery snails slid slowly seaward.
+
+### Intermediate Level
+
+- Peter Piper picked a peck of pickled peppers.
+- How much wood would a woodchuck chuck if a woodchuck could chuck wood?
+- Betty Botter bought some butter, but she said the butter's bitter.
+- Fred fed Ted bread, and Ted fed Fred bread.
+- Truly rural, truly rural, truly rural.
+- Lesser leather never weathered wetter weather better.
+- Which wristwatches are Swiss wristwatches?
+- Eleven benevolent elephants.
+
+### Advanced Level
+
+- The thirty-three thieves thought that they thrilled the throne throughout Thursday.
+- Six sleek swans swam swiftly southwards.
+- Pad kid poured curd pulled cod.
+- Irish wristwatch, Swiss wristwatch.
+- A big black bug bit a big black dog on his big black nose.
+- Luke Luck likes lakes. Luke's duck likes lakes. Luke Luck licks lakes. Luke's duck licks lakes.
+- The sixth sick sheik's sixth sheep's sick.
+- Can you can a can as a canner can can a can?
+
+
+# मराठी Tongue Twisters
+
+## Beginner Level
+
+- चिंचा चिवडा चघळतात, चघळता चघळता चिवडा संपला.
+- काचा पापड, पक्का पापड.
+- चंदूच्या चुलत चुलत्याच्या चुलीवर चांदणी चमकली.
+- राम राव रांगेत रमतगमत रडत राहिला.
+
+## Intermediate Level
+
+- खडकावर खारूताई खडखडत खारी खात होती.
+- ससा ससाण्याला सांगतो, ससाण्याने सशाला सांगितले.
+- टपोऱ्या टपोऱ्या टपोऱ्या टोमॅटोच्या टोपल्या.
+- नंदाने नंदाला नंदाच्या नंदनवनात नेले.
+
+## Advanced Level
+
+- चिंतामणीच्या चिंचेच्या झाडाखाली चिंगी चिंचा चघळत होती.
+- खड्या खडकावर खडूस खारीने खारट खाऊ खाल्ला.
+- पिंगळ्याच्या पिंजऱ्यात पिंगळा पिंगट पंख पसरून बसला.
+- राघोबाच्या राघवेंद्ररावांनी राघोबाला रागावून रडवले.
+
+
+
+---
 I want to learn __ from scratch.
 Assume I have **zero prior knowledge** about this topic and do not understand any related terminology.
 Teach me in a **deep, structured, and beginner‑friendly way**, following these rules:
